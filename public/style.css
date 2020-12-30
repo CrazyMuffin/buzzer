@@ -102,6 +102,14 @@ button {
   border: 0;
 }
 
+button.snd {
+  background-color: #1D7874;
+}
+
+button.snd:hover {
+  background-color: #7DE2D1;
+}
+
 button:hover {
   background-color: rgb(22, 29, 153);
 }
